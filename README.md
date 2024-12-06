@@ -1,7 +1,7 @@
-# mat311-ai
+-# mat311-ai
 # Reflection on the AI Assignments
-## Lily Alexander
-## 241205
+Lily Alexander
+241205
 
 For this assignment we were tasked with copying a .ipynb that was given to us as an introduction to the sorts of things we would be doing in out MAT311 - Intro to Data Science course using only our knowledge of the functions in the preexisting notebook and AI. The AI generator I used was ChatGPT-4 since that was just the default that came up with the free ChatGPT account. I thought that using AI was moderately helpful in terms of copying down this notebook because, in the situation in which you do not know the exact arguments or steps to create certain models or visualizations, then you wouldn't have to slog through the documentation and other sources to find good examples. 
 
